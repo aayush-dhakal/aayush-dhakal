@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Aayush Dhakal.
-## I’m currently learning web devleopment with react, node.js, python as my stack
+I’m currently learning web devleopment with react, node.js, python as my stack
 
 <!--
 **aayush-dhakal/aayush-dhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
