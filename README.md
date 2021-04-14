@@ -45,6 +45,7 @@ An aspiring software developer.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-dhakal&theme=buefy&layout=compact" />
 </a>
 
+<!--
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -55,5 +56,6 @@ An aspiring software developer.
 <a href="https://www.instagram.com/_aayush_dhakal/"><img alt="Instagram" src="https://cdn.icon-icons.com/icons2/1584/PNG/128/3721672-instagram_108066.png"></a>
 <a href="aayushdhakal33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
+-->
 
 ⭐️ From [aayush-dhakal](https://github.com/aayush-dhakal)
