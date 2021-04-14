@@ -49,8 +49,8 @@ An aspiring software developer.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.instagram.com/_aayush_dhakal" padding="10px"><img alt="Instagram" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" width="30px" height="30px"></a>
+<p>
+<a href="https://www.instagram.com/_aayush_dhakal"><img alt="Instagram" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png" width="30px" height="30px"></a>
 <a href="https://www.facebook.com/aayush.dhakal012"><img alt="Facebook" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" width="30px" height="30px"></a>
 </p>
 
