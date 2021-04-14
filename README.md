@@ -45,7 +45,14 @@ An aspiring software developer.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-dhakal&theme=buefy&layout=compact" />
 </a>
 
-</br>
+<br/>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.instagram.com/_aayush_dhakal"><img alt="Instagram" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F664069907543665448%2F&psig=AOvVaw0AckWohw2YL-VvFG4hRN97&ust=1618479721803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi-xvm4_e8CFQAAAAAdAAAAABAD" width="100px" height="100px"></a>
+</p>
+
+<br/>
 
 ⭐️ From [aayush-dhakal](https://github.com/aayush-dhakal)
