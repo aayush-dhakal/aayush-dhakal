@@ -50,7 +50,7 @@ An aspiring software developer.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/_aayush_dhakal"><img alt="Instagram" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F664069907543665448%2F&psig=AOvVaw0AckWohw2YL-VvFG4hRN97&ust=1618479721803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi-xvm4_e8CFQAAAAAdAAAAABAD" width="100px" height="100px"></a>
+<a href="https://www.instagram.com/_aayush_dhakal"><img alt="Instagram" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" width="100px" height="100px"></a>
 </p>
 
 <br/>
