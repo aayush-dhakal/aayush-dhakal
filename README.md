@@ -10,6 +10,7 @@ An aspiring software developer.
 -->
 
 <h2> Hey there! I'm Aayush Dhakal.</h2>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aayush-dhakal" alt="aayush-dhakal" /></p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
