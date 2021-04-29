@@ -55,6 +55,3 @@ An aspiring software developer.
 <a href="https://www.facebook.com/aayush.dhakal012"><img alt="Facebook" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" width="30px" height="30px"></a>
 </p>
 
-<br/>
-
-⭐️ From [aayush-dhakal](https://github.com/aayush-dhakal)
